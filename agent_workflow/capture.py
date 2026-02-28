@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import sys
 import threading
+import time
 from pathlib import Path
 
 import cv2
@@ -21,6 +22,11 @@ class CameraCapture:
             print("ERROR: Could not open camera source")
             sys.exit(1)
 
+        self.video_fps = self.cap.get(cv2.CAP_PROP_FPS)
+        if self.video_fps <= 0 or self.video_fps > 60:
+            self.video_fps = 25
+        self.frame_delay = 1.0 / self.video_fps
+
         print("Camera opened")
 
         self.frame: np.ndarray | None = None
@@ -37,6 +43,8 @@ class CameraCapture:
                 with self.lock:
                     self.frame = frame.copy()
                     self.frame_id += 1
+                if isinstance(self.source, str):
+                    time.sleep(self.frame_delay)
                 continue
 
             if not ret:
