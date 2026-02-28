@@ -1,0 +1,2002 @@
+[
+  {
+    "image": "datasets/valid/images/-Clipchamp-_mp4-40_jpg.rf.6c88577f260d082f16b0e723cdf19d7a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0382><loc0408><loc0550> drowning ; <loc0554><loc0577><loc0776><loc1022> drowning ; <loc0009><loc0000><loc0280><loc0089> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1006_jpg.rf.6d68cdc393bb62ab57fa0c1a059ee5e4.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0470><loc0610><loc0532><loc0655> drowning ; <loc0376><loc0198><loc0396><loc0241> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1012_jpg.rf.75c43b01111957002a65eafb94561b67.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0474><loc0608><loc0529><loc0640> drowning ; <loc0377><loc0185><loc0401><loc0230> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1019_jpg.rf.eecb37e028b45dbd4dd8cf8de37f7d3f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0480><loc0604><loc0547><loc0641> drowning ; <loc0384><loc0164><loc0412><loc0225> drowning ; <loc0318><loc0428><loc0342><loc0463> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1024_jpg.rf.5b2710f5e86bc58011c92db0b0a3e133.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0470><loc0595><loc0537><loc0649> drowning ; <loc0391><loc0161><loc0421><loc0219> drowning ; <loc0316><loc0416><loc0356><loc0474> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1033_jpg.rf.f67f2a4a9955a1dadda57cc1f18ea691.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0394><loc0146><loc0437><loc0183> drowning ; <loc0486><loc0612><loc0542><loc0649> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1038_jpg.rf.f291a367455934efcfb27daaf26c8e92.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0490><loc0618><loc0544><loc0646> drowning ; <loc0407><loc0133><loc0434><loc0191> drowning ; <loc0333><loc0426><loc0351><loc0450> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1044_jpg.rf.0e3728cafcbf3aee687dcf801ce72459.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0486><loc0618><loc0559><loc0670> drowning ; <loc0336><loc0421><loc0362><loc0447> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1064_jpg.rf.3f945c1d487e20906665aa8ecd3493c4.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0308><loc0611><loc0365><loc0694> drowning ; <loc0770><loc0184><loc0880><loc0332> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1076_jpg.rf.f17f19b13664247864384f4de6a87049.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0309><loc0638><loc0351><loc0700> drowning ; <loc0762><loc0196><loc0878><loc0358> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1078_jpg.rf.6216b4b0f0a7fa1905d290c14357bd79.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0765><loc0201><loc0878><loc0356> drowning ; <loc0306><loc0610><loc0367><loc0706> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1080_jpg.rf.0666225a0dc0cee2894c64fe4bf1dce9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0762><loc0206><loc0871><loc0358> drowning ; <loc0306><loc0614><loc0364><loc0710> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1082_jpg.rf.b076b4406e667c9c5d4dd97a61cae668.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0307><loc0619><loc0355><loc0708> drowning ; <loc0748><loc0206><loc0868><loc0365> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1083_jpg.rf.2cf3da4335c0e3633a4f78b5d9dd8c7a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0738><loc0206><loc0870><loc0366> drowning ; <loc0307><loc0622><loc0361><loc0708> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1096_jpg.rf.6b418ea13a0417df42d6a6aec8970a17.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0299><loc0645><loc0356><loc0712> drowning ; <loc0742><loc0238><loc0861><loc0388> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1100_jpg.rf.b7255c017fdfd6cb24fa4eca0fa884ba.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0304><loc0631><loc0348><loc0706> drowning ; <loc0742><loc0250><loc0856><loc0369> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1105_jpg.rf.b66d42b34ed37fdf48cbd677da63bce6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0303><loc0666><loc0338><loc0708> drowning ; <loc0737><loc0265><loc0840><loc0372> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1114_jpg.rf.f3840a604eb96dc063195bcbb8113fc0.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0720><loc0265><loc0830><loc0387> drowning ; <loc0297><loc0652><loc0347><loc0736> drowning"
+  },
+  {
+    "image": "datasets/valid/images/1117_jpg.rf.7ce1806be42f8065ed6710f042be9991.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0291><loc0652><loc0345><loc0742> drowning ; <loc0712><loc0268><loc0833><loc0418> drowning"
+  },
+  {
+    "image": "datasets/valid/images/13_mp4-0004_jpg.rf.e821000c50920a1fb9eed0347c6b5c3f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0415><loc0000><loc0682><loc0354> drowning"
+  },
+  {
+    "image": "datasets/valid/images/13_mp4-0023_jpg.rf.03e53f5356ee78e55a0b9b939f5877f5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0433><loc0285><loc0700><loc0543> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0010_jpg.rf.a55f9400667a30b319eb0fddce1ce47b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0296><loc0289><loc0734><loc0682> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0016_jpg.rf.ec141b083e789084d42911d9ea6cf1f5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0306><loc0369><loc0665><loc0685> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0027_jpg.rf.5e0f80cec2753cfdbccb6cd7e8360cf1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0296><loc0449><loc1022><loc1024> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0028_jpg.rf.f66d73588214cb727bd73ca9bddc14af.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0224><loc0371><loc1022><loc1024> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0032_jpg.rf.a78a5559cbfa3fe572c0bd9265b86fbb.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0134><loc0040><loc0888><loc1024> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0049_jpg.rf.ea1624b5ccad160e847374f430c9937c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0360><loc0382><loc0676><loc0646> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0060_jpg.rf.c5220eed0bd666c13bee5f82eadccaf6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0320><loc0354><loc0662><loc0602> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0071_jpg.rf.b6daef3b997ae908e14a3e0582317662.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0312><loc0163><loc0671><loc0908> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0086_jpg.rf.9ac70b1cc8d983d04bdb2e953e7016c9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0365><loc0205><loc0708><loc0757> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0087_jpg.rf.5dc62da3f74556da7be7e1d68a6b745c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0062><loc0289><loc0654><loc0678> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0107_jpg.rf.cb4749edd0634803a920e68366900507.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0427><loc0397><loc0701><loc0562> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0119_jpg.rf.093681251c9a0a7b1825dfbddd2502ed.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0352><loc0334><loc0651><loc0630> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0130_jpg.rf.ea9b916176d84f73e7c9aaab44d9c281.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0404><loc0390><loc0764><loc0598> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0188_jpg.rf.bbcd7c89ab9fa7c3a80e40d4e996111b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0395><loc0395><loc0786><loc0582> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0190_jpg.rf.d5dbcacb334c243594f18d8d9aa6541c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0417><loc0397><loc0658><loc0556> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0191_jpg.rf.5db8d04a5113a8dc91240fac056de912.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0410><loc0402><loc0636><loc0542> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0214_jpg.rf.daaa11b9a8dd775ff74d066dd0df1da4.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0384><loc0235><loc0599><loc0516> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0215_jpg.rf.61c390c4a2954ab531b501c8214871a6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0387><loc0187><loc0567><loc0531> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0223_jpg.rf.dd1a177ca3e4b4766d6127581bc84140.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0354><loc0300><loc0506><loc0675> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0226_jpg.rf.71dcf601ab5528ef59296ebf85fda3fe.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0337><loc0310><loc0517><loc0747> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0244_jpg.rf.2c6e43c0b2cbab6e1b2313fa5ab0cb9e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0354><loc0112><loc0544><loc0726> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0254_jpg.rf.4b03740f1f559fb8418160909190070f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0322><loc0095><loc0570><loc0583> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0255_jpg.rf.e0c2fcb1f4bce67fd6750edb4c837549.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0290><loc0101><loc0567><loc0594> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0258_jpg.rf.7cddd8fa3ee4cf7e6ebeae12c58231ba.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0292><loc0139><loc0630><loc0539> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0270_jpg.rf.0a2fbe6787a42322007cc2273bdceeff.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0368><loc0002><loc0604><loc0855> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0272_jpg.rf.5ebfe77afa8ffa2eb5c88da75371073f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0327><loc0000><loc0579><loc0889> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0277_jpg.rf.50245984eb542565efa2e940b063cf79.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0264><loc0000><loc0575><loc0769> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0280_jpg.rf.9a897149fa8fa42edfab42072af255cf.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0319><loc0000><loc0589><loc0623> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0281_jpg.rf.9705ae466623844616efd47e16a4219f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0288><loc0002><loc0612><loc0630> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0285_jpg.rf.cda3f51253d6350e1e6f3a03fb651c2e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0297><loc0063><loc0723><loc0866> drowning"
+  },
+  {
+    "image": "datasets/valid/images/14_mp4-0289_jpg.rf.4231cc6a6375a3f1d4bf27a6479a0b84.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0254><loc0000><loc0578><loc0871> drowning"
+  },
+  {
+    "image": "datasets/valid/images/15_mp4-0003_jpg.rf.c0f7ce5c8284f5c6ebb3d33e50ccd92f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0385><loc0419><loc0549><loc0667> drowning ; <loc0491><loc0458><loc0568><loc0608> drowning ; <loc0482><loc0672><loc0573><loc0836> drowning"
+  },
+  {
+    "image": "datasets/valid/images/15_mp4-0012_jpg.rf.2e70217c480d367556ba32c115545ba4.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0380><loc0667><loc0716><loc0872> drowning"
+  },
+  {
+    "image": "datasets/valid/images/15_mp4-0024_jpg.rf.9b6c77c7f3759d0103c029e0d09a1c6c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0244><loc0000><loc0571><loc0527> drowning"
+  },
+  {
+    "image": "datasets/valid/images/16_mp4-0021_jpg.rf.5ede7b76a1c5f2455af8b9cb04078a3e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0385><loc0536><loc0569><loc0793> drowning ; <loc0391><loc0157><loc0504><loc0392> drowning"
+  },
+  {
+    "image": "datasets/valid/images/16_mp4-0038_jpg.rf.3fc95f3f9cc24bde0ea9952c176d48ef.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0274><loc0380><loc0590><loc0936> drowning ; <loc0428><loc0189><loc0524><loc0342> drowning ; <loc0430><loc0089><loc0546><loc0179> drowning"
+  },
+  {
+    "image": "datasets/valid/images/17_mp4-0033_jpg.rf.592ebb56175c654cd5559f9228c2fa06.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0362><loc0309><loc0706><loc1023> swimming"
+  },
+  {
+    "image": "datasets/valid/images/17_mp4-0038_jpg.rf.27ffd4bd443d57eda276fb5ec221b227.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0376><loc0115><loc0887><loc0876> swimming"
+  },
+  {
+    "image": "datasets/valid/images/17_mp4-0047_jpg.rf.2189c1db709480719045d893b3cf712c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0342><loc0188><loc0812><loc0930> swimming"
+  },
+  {
+    "image": "datasets/valid/images/17_mp4-0062_jpg.rf.8a1ea5d2d98f99d03ca8a720963acb7d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0432><loc0282><loc0919><loc0957> swimming"
+  },
+  {
+    "image": "datasets/valid/images/17_mp4-0065_jpg.rf.4a1539ea26f4a6946dca75f0b3c65aab.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0428><loc0128><loc0692><loc0642> drowning"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0005_jpg.rf.7cae465870e97ead05a30f3d21682f26.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0054><loc0347><loc0401><loc0614> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0008_jpg.rf.d5a129be4862d589591231787ae1b42a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0157><loc0328><loc0374><loc0560> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0017_jpg.rf.04c8abc0c9d41ee5b8d85fa2d8738b8c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0268><loc0440><loc0759><loc0641> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0019_jpg.rf.d13f44ddfdea2e580f88007b95376dac.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0185><loc0358><loc0827><loc0680> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0020_jpg.rf.d0fb4f540468895e6a5b669a41245a37.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0188><loc0355><loc0824><loc0673> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0025_jpg.rf.540616eb249083d9115598ab163c4ed2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0144><loc0356><loc0582><loc0662> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0031_jpg.rf.3b5802ee63f9805e8b840b63e5b229ea.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0195><loc0394><loc0777><loc0701> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0039_jpg.rf.022d7fc451e249f429282cb6164771f4.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0066><loc0401><loc0828><loc0695> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0040_jpg.rf.83308fcc4cc661189bb2df338f0d18d0.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0005><loc0468><loc0252><loc0706> swimming"
+  },
+  {
+    "image": "datasets/valid/images/18_mp4-0044_jpg.rf.58c13081aae0dc896aaac0e7a06a8d3b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0204><loc0414><loc0853><loc0659> swimming"
+  },
+  {
+    "image": "datasets/valid/images/197_png_jpg.rf.dd28f0f6478a79b72944dfca74b4b39f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0006><loc0091><loc0936><loc1024> drowning"
+  },
+  {
+    "image": "datasets/valid/images/198_png_jpg.rf.e062958cf109ced509b21a50b7627fc2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0236><loc0354><loc0870><loc0796> swimming"
+  },
+  {
+    "image": "datasets/valid/images/19_mp4-0007_jpg.rf.1e6b5de4d22820f37af639a0e4a1f598.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0382><loc0313><loc0636><loc0550> swimming"
+  },
+  {
+    "image": "datasets/valid/images/19_mp4-0013_jpg.rf.42fae1c1934d778de28eac0f8100eba6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0437><loc0442><loc0828><loc0549> swimming"
+  },
+  {
+    "image": "datasets/valid/images/19_mp4-0018_jpg.rf.40d52e405aaf76c4db1ef73dbc4be247.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0378><loc0502><loc0973><loc0732> swimming"
+  },
+  {
+    "image": "datasets/valid/images/19_mp4-0035_jpg.rf.1f31dfd5b95122cd0433eb3eddf699ea.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0504><loc0480><loc0885><loc0808> swimming"
+  },
+  {
+    "image": "datasets/valid/images/1_mp4-0004_jpg.rf.85e8db957f81aeab2539badd9021da25.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0001><loc0129><loc0645><loc0789> swimming"
+  },
+  {
+    "image": "datasets/valid/images/1_mp4-0005_jpg.rf.4dcbbc7438e722f6ff85319e0da1b2d1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0384><loc0758><loc0768> swimming"
+  },
+  {
+    "image": "datasets/valid/images/1_mp4-0006_jpg.rf.e712bbccdcdf18bfc7acef8d94d2c7e1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0001><loc0407><loc0854><loc0786> swimming"
+  },
+  {
+    "image": "datasets/valid/images/1_mp4-0011_jpg.rf.39a8717fca983b37c167144cb297fc4b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0147><loc0344><loc1014><loc1024> swimming"
+  },
+  {
+    "image": "datasets/valid/images/1_mp4-0012_jpg.rf.4b2f536798c788cde1c2027a9b0888a9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0002><loc0386><loc0750><loc0786> swimming"
+  },
+  {
+    "image": "datasets/valid/images/1_mp4-0014_jpg.rf.c6dd7cb1b03f4ae4836d6c82ce205e72.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0164><loc0424><loc1009><loc0930> swimming"
+  },
+  {
+    "image": "datasets/valid/images/1_mp4-0022_jpg.rf.e2a3d90141b02fc7ed83c80e879ffec2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0398><loc0793><loc0849> swimming"
+  },
+  {
+    "image": "datasets/valid/images/1_mp4-0029_jpg.rf.dc52f1a86a09984c3bb444af4cd2f051.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0379><loc0784><loc0839> swimming"
+  },
+  {
+    "image": "datasets/valid/images/20_mp4-0003_jpg.rf.67cad1009b50a4765c623c43fd00214f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0537><loc0101><loc0697><loc0421> swimming"
+  },
+  {
+    "image": "datasets/valid/images/20_mp4-0005_jpg.rf.d54fcb3f84cc5334ca40e1215e209073.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0501><loc0305><loc0601><loc0464> swimming"
+  },
+  {
+    "image": "datasets/valid/images/20_mp4-0017_jpg.rf.44689b8685573257a20eb47be9b4cba3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0381><loc0004><loc0687><loc0829> swimming"
+  },
+  {
+    "image": "datasets/valid/images/254_jpg.rf.7b264025fbdc69cb5b2d753739c025b3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0121><loc0388><loc0411><loc0645> swimming"
+  },
+  {
+    "image": "datasets/valid/images/2_mp4-0004_jpg.rf.d734c172dd3b5828004e132634650603.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0401><loc0763><loc0772> swimming"
+  },
+  {
+    "image": "datasets/valid/images/2_mp4-0010_jpg.rf.0f865f3aa666f1b3f6477181efdc03c3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0003><loc0399><loc0844><loc0900> swimming"
+  },
+  {
+    "image": "datasets/valid/images/2_mp4-0013_jpg.rf.0b5e9c650b98232c77ebfb481ae03540.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0119><loc0390><loc0949><loc1024> swimming"
+  },
+  {
+    "image": "datasets/valid/images/2_mp4-0014_jpg.rf.03ed884845e4262ad8a64c40ca6c8cba.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0386><loc0759><loc0830> swimming"
+  },
+  {
+    "image": "datasets/valid/images/2_mp4-0019_jpg.rf.b174a058ea37dd1137c10720b17b59b1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0067><loc0411><loc1000><loc1024> swimming"
+  },
+  {
+    "image": "datasets/valid/images/2_mp4-0023_jpg.rf.0717601e6655b589f449c4b7ad5cd3e2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0040><loc0416><loc0901><loc0856> swimming"
+  },
+  {
+    "image": "datasets/valid/images/309_jpg.rf.49105b47a3a598c273b4ce685d62091a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0074><loc0316><loc0372><loc0577> swimming"
+  },
+  {
+    "image": "datasets/valid/images/3_mp4-0003_jpg.rf.b76e606f57660dc67605355330e2fa80.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0348><loc0115><loc0870><loc0595> swimming"
+  },
+  {
+    "image": "datasets/valid/images/3_mp4-0006_jpg.rf.63b5fda37f57f576abbea1604f1d15d2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0374><loc0291><loc1024><loc0603> swimming"
+  },
+  {
+    "image": "datasets/valid/images/4_mp4-0001_jpg.rf.5013ef7fedf06bd5352fb71b9fa868c6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0405><loc0378><loc0730><loc0660> swimming"
+  },
+  {
+    "image": "datasets/valid/images/4_mp4-0008_jpg.rf.c7fa39260ec14def8e3699cd45b0d240.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0321><loc0350><loc0752><loc0635> swimming"
+  },
+  {
+    "image": "datasets/valid/images/586_jpg.rf.e81e70a6525aef3b993011edcc37e18e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0244><loc0435><loc0624><loc0709> swimming"
+  },
+  {
+    "image": "datasets/valid/images/5948743233789_mp4-0041_jpg.rf.ab1b74a67e43db5aa2bea43e6ec211c0.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0219><loc0439><loc0532><loc0670> swimming"
+  },
+  {
+    "image": "datasets/valid/images/5996281292918_mp4-0004_jpg.rf.caaf4cde4beebf0c6ecae54c41802ad3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0128><loc0232><loc0760><loc0751> drowning"
+  },
+  {
+    "image": "datasets/valid/images/5_mp4-0001_jpg.rf.6dd712f0c3c0193e3f61da3fa527afb1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0247><loc0000><loc0790><loc1014> swimming"
+  },
+  {
+    "image": "datasets/valid/images/641_jpg.rf.44033c958a5268551c1ce5dd61e36b89.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0221><loc0411><loc0573><loc0702> swimming"
+  },
+  {
+    "image": "datasets/valid/images/6_mp4-0005_jpg.rf.28eb7083b411a5c739b8093800c659dc.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0471><loc0184><loc0788><loc0782> swimming"
+  },
+  {
+    "image": "datasets/valid/images/6_mp4-0007_jpg.rf.57bef75fa3c1804eb3bdde0e4694ac8a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0513><loc0232><loc0813><loc0779> swimming"
+  },
+  {
+    "image": "datasets/valid/images/745_jpg.rf.6dbe63d32eeb3f087286aeea7a333c2f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0156><loc0440><loc0483><loc0685> swimming"
+  },
+  {
+    "image": "datasets/valid/images/7_mp4-0004_jpg.rf.c881c43d6370f7216a328ef8a7292aff.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0629><loc0512><loc0964><loc0948> swimming"
+  },
+  {
+    "image": "datasets/valid/images/7_mp4-0008_jpg.rf.53a039e74d38c592920247bbe6b5b975.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0652><loc0456><loc0896><loc0903> swimming"
+  },
+  {
+    "image": "datasets/valid/images/7_mp4-0009_jpg.rf.703a7133581e90ee2255c05b9861c061.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0647><loc0441><loc0887><loc0938> swimming"
+  },
+  {
+    "image": "datasets/valid/images/7_mp4-0010_jpg.rf.2271862231a3d34bb21affc13c468e19.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0652><loc0424><loc0878><loc0931> swimming"
+  },
+  {
+    "image": "datasets/valid/images/839_jpg.rf.b26161c79884f58b7ff3b27c4ac13c9c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0162><loc0450><loc0425><loc0682> drowning"
+  },
+  {
+    "image": "datasets/valid/images/8_mp4-0008_jpg.rf.c38a3a4fe1b4f5238334fae6b86ef72e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0068><loc0111><loc0671><loc0898> swimming"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0003_jpg.rf.0fb13aedd4c436b1b4ab4d6bb1fce350.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0167><loc0409><loc0662><loc0772> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0005_jpg.rf.fa02454aa60ae54b2c578baa30222a61.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0409><loc0446><loc0718><loc0598> drowning ; <loc0597><loc0066><loc0732><loc0193> drowning ; <loc0594><loc0715><loc0790><loc0791> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0006_jpg.rf.0d8fb51b9342789914c2ab957e7c6990.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0395><loc0361><loc0758><loc0646> drowning ; <loc0587><loc0046><loc0699><loc0158> drowning ; <loc0590><loc0717><loc0715><loc0758> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0012_jpg.rf.11de84019ea20f81b182aa3b74bf5138.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0380><loc0548><loc0570> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0014_jpg.rf.f96b18be0a4779894826e8a596962ffc.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0281><loc0731><loc0767> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0017_jpg.rf.b5418092671b79e5915e22a967efc08f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0267><loc0399><loc0812><loc0573> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0024_jpg.rf.8a422bf2c2c2f809e1ffec3ea6b51e38.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0421><loc0422><loc0902><loc0556> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0032_jpg.rf.b1fba32656c5443d80c3cfca241423de.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0163><loc0271><loc0523><loc0717> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0035_jpg.rf.d6e8dc5a969723a47a38692fa052a4c6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0618><loc0453><loc0818><loc0532> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0036_jpg.rf.6aa0cecbd4024c789c0aff861ac04e7d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0594><loc0433><loc0779><loc0556> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0060_jpg.rf.83c3d46e747b7136433b3aa5673c4713.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0396><loc0604><loc0707><loc0753> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0074_jpg.rf.37b0b3996b456206f122262d0ab7f71e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0401><loc0442><loc0562><loc0562> drowning"
+  },
+  {
+    "image": "datasets/valid/images/9_mp4-0080_jpg.rf.064c19b94f4cbd50818da314a50c8507.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0462><loc0411><loc0772><loc0550> drowning"
+  },
+  {
+    "image": "datasets/valid/images/Al-agua-Pato-_mp4-13_jpg.rf.122c1b67e168d0c920ca00c1923ac21f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0260><loc0298><loc0538><loc0589> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Beautiful-Bikini-Woman-trapped-and-drown-in-Pool_mp4-42_jpg.rf.dc23fc42e002befa8186b4c2edf568a2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0234><loc0007><loc0834><loc0573> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Caught-on-tape-A-man-is-drowning-and-no-one-saves-him_mp4-0018_jpg.rf.763d07b2a0b2ae1076a3ddef821a15d3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0282><loc0449><loc0515><loc0568> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Caught-on-tape-A-man-is-drowning-and-no-one-saves-him_mp4-0050_jpg.rf.0d4afae9a0408c5df8a4fcd2daa9eab9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0406><loc0441><loc0587><loc0569> drowning"
+  },
+  {
+    "image": "datasets/valid/images/D13_jpeg_jpg.rf.cda5bab459ee21dfa64fb4ff66b6652f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0158><loc0139><loc0988><loc0972> swimming"
+  },
+  {
+    "image": "datasets/valid/images/D35_jpeg_jpg.rf.83535398a5dff6435feb0c705ed35ae8.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0137><loc0098><loc0484><loc0910> swimming"
+  },
+  {
+    "image": "datasets/valid/images/D36_jpeg.rf.41c775a7c6ffe0c485de3d795609b31d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0284><loc0299><loc0645><loc0864> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Drowning-doesn-t-look-like-drowning_mp4-33_jpg.rf.d090152b12d2bd5a5516b0928a4ef3c2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0248><loc0292><loc0764><loc0763> swimming"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim-freestyle-easy-and-smooth_mp4-7_jpg.rf.d885440421d2b2990eb91fcc8b740dbe.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0502><loc0386><loc0669><loc0630> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim-freestyle-easy-and-smooth_mp4-9_jpg.rf.7feb3b4c2b6c9b76619159ac4e13a650.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0434><loc0339><loc0622><loc0664> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-11_jpg.rf.e8d57e97e073f17753fa428fd874cb93.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0378><loc0002><loc0970><loc0987> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-147_jpg.rf.c28cd997043038aca0f029169f400deb.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0306><loc0334><loc0790><loc0782> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-19_jpg.rf.3903b7b61d9df227baeecde901c86ed2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0445><loc0126><loc0593><loc0878> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-224_jpg.rf.62f32be6dddd0372eb029b958d62e81a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0420><loc0237><loc0894><loc0710> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-224_jpg.rf.8d6bddf0bac35cbb3e3059a714d3e517.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0411><loc0232><loc0926><loc0714> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-31_jpg.rf.f3d5c57bb840a0de346a5127a6a97b19.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0502><loc0350><loc1024><loc0614> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-3_jpg.rf.70d5313841af7ced6b175768bf41e962.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0506><loc0002><loc0754><loc0925> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-43_jpg.rf.434f7123cb4106c238af23fb8e04c891.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0192><loc0483><loc0894><loc1024> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-85_jpg.rf.f2fe03313e4a54114be94902aa36d304.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0217><loc0461><loc0863><loc0633> drowning"
+  },
+  {
+    "image": "datasets/valid/images/How-to-swim_mp4-93_jpg.rf.47737f1d8b95939df12ccb7d8b155c76.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0385><loc0412><loc0810><loc1024> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG-20240225-WA0022_jpg.rf.67a3c7ed6f43d0a38fc709bfcf4f9430.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0268><loc0223><loc0809><loc0825> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG-20240225-WA0034_jpg.rf.46fcbf33972116c4a014e721543f6eb2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0300><loc0390><loc0371><loc0814> drowning ; <loc0548><loc0080><loc0646><loc0233> drowning ; <loc0521><loc0576><loc0659><loc0959> drowning ; <loc0734><loc0394><loc0862><loc0665> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG-20240225-WA0039_jpg.rf.9f9a7a8120099ed7842a2a8751ba38d7.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0325><loc0130><loc0425><loc0812> drowning ; <loc0612><loc0419><loc0707><loc0836> drowning ; <loc0924><loc0232><loc0959><loc0738> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG-20240225-WA0054_jpg.rf.d5b354b50b0ba5df351eae1ac0d57490.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0362><loc0376><loc0476><loc0611> drowning ; <loc0597><loc0403><loc0730><loc0595> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG-20240225-WA0055_jpg.rf.a9120144e10303ca194488b6de68bf36.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0305><loc0419><loc0451><loc0579> swimming ; <loc0567><loc0457><loc0714><loc0682> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_135303_jpg.rf.6485fa9d1b70e93a444789bd63cba2eb.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0687><loc0389><loc0829><loc0644> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_135307_jpg.rf.be0025c98c3a763540d7ac87d2e0c435.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0654><loc0320><loc0763><loc0477> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_135308_jpg.rf.fd22e0b2fdca029ac1006d63e342aa18.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0646><loc0206><loc0768><loc0414> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_140503_jpg.rf.547003d9c2dc0d1c1bd76de54e2f0288.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0449><loc0795><loc0504><loc0836> drowning ; <loc0480><loc0613><loc0588><loc0812> drowning ; <loc0724><loc0217><loc1024><loc0435> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_142407_jpg.rf.37fea9dd39d0e04e2d08540f4f9b91b9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0475><loc0774><loc0688><loc1019> drowning ; <loc0316><loc0305><loc0356><loc0340> drowning ; <loc0321><loc0340><loc0361><loc0412> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_150415_jpg.rf.b473bd21f3ddc84bc8edd02e02519a58.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0391><loc0520><loc0482><loc0644> swimming ; <loc0399><loc0083><loc0528><loc0227> drowning ; <loc0318><loc0188><loc0369><loc0310> drowning ; <loc0339><loc0664><loc0395><loc0777> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_152054_jpg.rf.3faa8ab7d3611ab379acbffaab7b8893.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0675><loc0582><loc0894><loc0740> drowning ; <loc0560><loc0664><loc0647><loc0756> drowning ; <loc0420><loc0655><loc0472><loc0736> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_152112_jpg.rf.fdc3ada85467442630fc4fd90457e38c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0832><loc0339><loc1024><loc0544> drowning ; <loc0534><loc0700><loc0624><loc0759> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_152125_jpg.rf.a584a8bce40490305a5a2b4a600bf415.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0581><loc0123><loc0692><loc0200> drowning ; <loc0527><loc0131><loc0563><loc0158> drowning ; <loc0537><loc0509><loc0579><loc0566> drowning ; <loc0649><loc0684><loc0787><loc0966> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_161459-1-_jpg.rf.1bf6de1c9169b9a18ace528fb90a83ef.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0699><loc0484><loc0817><loc0582> drowning ; <loc0641><loc0610><loc0696><loc0650> drowning ; <loc0672><loc0702><loc0735><loc0761> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_161510_jpg.rf.1eac7e7d8f1ed94cafdb776b10559af2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0502><loc0582><loc0552><loc0647> drowning ; <loc0483><loc0151><loc0570><loc0264> drowning ; <loc0593><loc0463><loc0737><loc0564> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_161524_jpg.rf.1059009a57408f7c8033275347271476.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0556><loc0545><loc0618><loc0598> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_161525_jpg.rf.9806e7575e9b2d3cecd3542250ae2439.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0556><loc0518><loc0629><loc0606> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_161535_jpg.rf.700a4878e8d5844f423dca46cf5ec376.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0570><loc0494><loc0655><loc0594> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_20240627_161538_jpg.rf.453f96d5acd2b1db0f4a894d2f25e739.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0565><loc0520><loc0600><loc0620> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_2263_JPG.rf.a6eaea748baae1aee58b1c2902f84769.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0360><loc0630><loc0510><loc0752> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_2317_JPG.rf.a9fab5a56ccb8e3b79ef3e86531ff83b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0466><loc0363><loc0547><loc0706> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_2385_JPG.rf.f1bdcb94bdb413bdfd5969adbc671e01.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0602><loc0314><loc0733><loc0600> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_2397_JPG.rf.90aa96af2264ec58fe855a2a2aaf468f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0599><loc0352><loc0694><loc0558> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0012_jpg.rf.82a306f6246a0bb5515f915f9e8d76d5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0242><loc0274><loc0399><loc0357> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0014_jpg.rf.7fdee38425e2432e7a39e442edc51cd2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0235><loc0281><loc0391><loc0374> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0022_jpg.rf.81cbf7e56b63faad2b1578b57fc2abb5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0218><loc0381><loc0431><loc0527> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0024_jpg.rf.a2893a6746ebc921562ec3c462148b95.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0216><loc0397><loc0452><loc0557> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0032_jpg.rf.a11fff6dafac10931d4f47cc13bbbc65.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0226><loc0346><loc0433><loc0630> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0034_jpg.rf.0f3263e3784376b2ae67a2dc585bdc25.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0203><loc0326><loc0440><loc0606> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0046_jpg.rf.805d25857bc2b5203270a1e5db2cad2a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0372><loc0301><loc0621><loc0504> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0054_jpg.rf.e28391f3d8791d55f7068a540587704b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0351><loc0326><loc0518><loc0425> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0058_jpg.rf.ba09c56009b8da733bf8bdaa30e55e33.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0406><loc0323><loc0632><loc0512> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0082_jpg.rf.09888249b7677a04ac5c072a68055a73.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0445><loc0430><loc0850><loc0606> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0086_jpg.rf.dec32a966830c06ac97b8272cf79a5ab.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0408><loc0451><loc0994><loc0590> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0108_jpg.rf.27306bdffb8df4bdeaa3c3c0302259f0.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0322><loc0435><loc0543><loc0542> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0116_jpg.rf.1b0495ca78d0e3119bf2b926fe009465.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0316><loc0429><loc0520><loc0535> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0130_jpg.rf.94403cd8427b2cc41be5e0a19ebb8f1f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0384><loc0416><loc0748><loc0559> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0148_jpg.rf.c1abd0f21d511e937605ecca2cfb4093.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0389><loc0365><loc0782><loc0562> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0150_jpg.rf.4a2b3ff63128aa4767449f8788ea1e3d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0425><loc0345><loc0867><loc0525> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0160_jpg.rf.677fe8789a5a97ef616d2199866236fa.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0322><loc0207><loc0539><loc0468> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0162_jpg.rf.9c6af3e56cedc84648a6943bbd03a2e2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0301><loc0205><loc0535><loc0466> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0178_jpg.rf.7427ba9b871a9e4adb2f315fe21522ac.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0304><loc0185><loc0482><loc0365> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0192_jpg.rf.2c762e86eb9c0ccc3ae19cddd01d25ed.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0232><loc0236><loc0389><loc0314> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0196_jpg.rf.06835f275b94caf9af155fee13c6516f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0256><loc0204><loc0401><loc0412> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0202_jpg.rf.fb17b205ebe7661eac49c3e26574705d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0286><loc0245><loc0434><loc0433> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0222_jpg.rf.460c82820135930eb54074de12e99d6d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0318><loc0284><loc0420><loc0412> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0226_jpg.rf.69e7036ac9f42b6ff6d243c8bea7b4da.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0288><loc0278><loc0462><loc0403> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3607_MOV-0230_jpg.rf.d25fc6f33d8fe6b782cf1826b0effcd9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0306><loc0268><loc0459><loc0405> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0046_jpg.rf.6a09ac974100c5d310b9f776da8b2a06.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0218><loc0610><loc0664><loc0838> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0078_jpg.rf.9cd9ae9ff30a23b05d321b3772ac1ccd.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0307><loc0276><loc0484><loc0401> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0086_jpg.rf.d296370e7aa34d343f6a91f15bea99b5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0398><loc0162><loc0571><loc0298> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0134_jpg.rf.769d5fd0ce67ad04d7ecf911db0130b9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0370><loc0384><loc0524><loc0473> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0154_jpg.rf.e0eb10bebead0e7c6524d4a23c4c502f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0404><loc0470><loc0621><loc0575> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0186_jpg.rf.d4b3748fa11de98403fcc6366c70630e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0308><loc0576><loc0609><loc0695> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0220_jpg.rf.55e4e0f016fc7f3e473a42256aaf693a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0312><loc0370><loc0426><loc0441> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0282_jpg.rf.c3f7b8bb8fad4df81246e3adf0798971.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0414><loc0512><loc0650><loc0700> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0288_jpg.rf.bc2884af43bf8445e22ca00ecbb66a5a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0354><loc0562><loc0612><loc0746> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0292_jpg.rf.ee726eb14917bcf55ea3b63c57abc349.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0329><loc0639><loc0496><loc0712> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0306_jpg.rf.37dd97cb9db67adb08d80e6d4842bc91.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0341><loc0548><loc0618><loc0677> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0312_jpg.rf.707eabb0efa3771d6ae4f401ea5b6b00.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0358><loc0568><loc0637><loc0703> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0318_jpg.rf.80d1513c45193430d968b1c7e4af96c5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0309><loc0479><loc0580><loc0725> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0324_jpg.rf.d238c4244f7ac64ae654d733e98da984.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0383><loc0394><loc0865><loc0678> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0334_jpg.rf.fdeb0764f6628461021500faa1d791ff.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0436><loc0512><loc0835><loc0751> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3608_MOV-0388_jpg.rf.e21c9217163d55f654795beb8375ea2b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0309><loc0378><loc0399><loc0426> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0000_jpg.rf.59cd9b435e6816243711e8374a2273b8.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0493><loc0550><loc0842><loc0661> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0018_jpg.rf.44692412ca9e5b17f3e198208220eb81.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0453><loc0378><loc0628><loc0461> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0020_jpg.rf.760b2b82a75af8c0f8fb365dba589fb3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0475><loc0379><loc0636><loc0462> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0030_jpg.rf.3a4fcc8f28b557ed6030efddfcd5bcf9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0562><loc0224><loc0686><loc0455> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0034_jpg.rf.9f756105a61c9d5b56560b6aa6c78523.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0567><loc0234><loc0709><loc0463> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0036_jpg.rf.52a477af2ad234f14616f1c299342431.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0572><loc0228><loc0711><loc0476> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0038_jpg.rf.cbaf3498440062f3842a2d98e008f63f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0576><loc0230><loc0719><loc0468> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0042_jpg.rf.88e304913a6346a7ff83c6abf94170a1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0382><loc0328><loc0622><loc0405> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0054_jpg.rf.77716f72eea71b01c52a724776a597d1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0370><loc0268><loc0545><loc0395> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0062_jpg.rf.a7bf0e062ffd2d42faf3f21597bdc5a3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0453><loc0282><loc0551><loc0458> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0064_jpg.rf.d39cc61b0be22d3f522686295e5a5ff9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0459><loc0280><loc0534><loc0455> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0102_jpg.rf.859315fed5ce490ca8814dfe3f0fb204.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0500><loc0365><loc0822><loc0568> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0136_jpg.rf.a5a513ae5349663e61f3b0fb49a37636.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0505><loc0338><loc0788><loc0565> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0142_jpg.rf.6eebf0d816f71f837166b0691ad0e265.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0624><loc0381><loc0920><loc0756> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0146_jpg.rf.deb39d77009d56cbd7ff193a317e717d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0638><loc0396><loc0950><loc0776> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0168_jpg.rf.60811c7674b532c99fb7a8ac6262002f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0441><loc0419><loc0804><loc0715> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3609_MOV-0172_jpg.rf.ee91132e037509d55cc4ebe9b506b215.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0432><loc0390><loc0764><loc0664> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0038_jpg.rf.efe900bdbc585813c77f3c66f7210c7e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0539><loc0168><loc0681><loc0290> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0040_jpg.rf.dbf563d145383905833630a1364610b8.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0526><loc0181><loc0690><loc0312> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0054_jpg.rf.1b4491ecc564d2cecda26bc2070282df.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0529><loc0314><loc0708><loc0499> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0074_jpg.rf.f1800413f8d02683e48c4715288069a9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0576><loc0512><loc0830><loc0704> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0078_jpg.rf.c1e79d945f8de0d1112882c86985301f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0567><loc0495><loc0787><loc0642> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0090_jpg.rf.a7118fb5bff1d5f809eb888d72cef59d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0538><loc0406><loc0740><loc0534> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0092_jpg.rf.9917588041833d40794a2582d47d583b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0552><loc0435><loc0748><loc0564> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0094_jpg.rf.9869484799ef8fd4b21f12fe16dc03f3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0481><loc0448><loc0719><loc0581> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0114_jpg.rf.7d0e8142f5b69e49626dd75aaa742d20.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0510><loc0333><loc0670><loc0450> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0116_jpg.rf.9165cca406399ad48b8c42e9deb2ee85.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0520><loc0346><loc0659><loc0473> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0122_jpg.rf.14c09e0097c8368da0e5f2a0ea5ecbfe.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0510><loc0311><loc0746><loc0597> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0124_jpg.rf.6962885c1c6893503d43d55e2be3591c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0510><loc0344><loc0726><loc0613> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0126_jpg.rf.83aeb906237cebcf91a175b017c53d24.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0494><loc0380><loc0693><loc0628> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0144_jpg.rf.e71a2dff965160ecde4f286101cee41c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0522><loc0366><loc0945><loc0690> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3610_MOV-0148_jpg.rf.5cac0d3dff18f6774e34c2666cd8af37.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0538><loc0317><loc1002><loc0883> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0012_jpg.rf.43c5aea344298dc4befe2f6d0d3c3ada.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0405><loc0378><loc0586><loc0499> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0018_jpg.rf.ac9ac460bdccbd01ac360b7e43f0d5be.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0378><loc0371><loc0566><loc0505> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0024_jpg.rf.4024d0b783ed0d94751524e748c18ded.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0295><loc0353><loc0509><loc0523> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0032_jpg.rf.67c631450e3175044400a55a748af808.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0278><loc0362><loc0464><loc0500> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0034_jpg.rf.e34aa24f4017154a9fd349f1985844aa.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0243><loc0370><loc0471><loc0511> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0036_jpg.rf.f6782c1f2f31bb5df7be5f190931b71b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0301><loc0369><loc0442><loc0504> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0050_jpg.rf.18ce70e612f545cf68cce624e909489e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0363><loc0349><loc0651><loc0522> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0058_jpg.rf.7efe718c5a5abc39f41d5809142af077.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0390><loc0357><loc0632><loc0535> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0070_jpg.rf.27882bd328ce57ae87223cb6dd4b4b34.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0277><loc0357><loc0644><loc0557> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0082_jpg.rf.d72e6e70f44434529355e13e9122a03d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0374><loc0385><loc0596><loc0548> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0092_jpg.rf.bd781e3872a2ca520919546cb856d99e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0344><loc0357><loc0580><loc0536> drowning"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0116_jpg.rf.cf5e9d0abd121bf6da1c1b65ff166ebf.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0344><loc0340><loc0731><loc0539> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0120_jpg.rf.d33b4444cd6a80b05ddb7222d9753963.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0327><loc0322><loc0754><loc0546> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0126_jpg.rf.edcef35bf8522f2493d5ef764914d649.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0320><loc0309><loc0810><loc0576> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0130_jpg.rf.e4fa17111a5f6e31ed5d48610a1c719c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0275><loc0414><loc0686><loc0588> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0180_jpg.rf.d0c4221dc9102bfcf63b8fdb92047e4a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0358><loc0373><loc0666><loc0509> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0184_jpg.rf.4957fac2fe98ab89bfaf6795153d08b3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0400><loc0373><loc0685><loc0543> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0190_jpg.rf.ed3f1d6affd07a1a9c529f742ead539f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0370><loc0378><loc0652><loc0541> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0196_jpg.rf.e01384492692fa102ec4676f5de3c10a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0405><loc0421><loc0598><loc0543> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0226_jpg.rf.b1dc04d2241d8db5eb164a58fd6d877b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0369><loc0147><loc0624><loc0358> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0236_jpg.rf.cbbddec1b496b6213a11c3b7df3b370b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0337><loc0156><loc0568><loc0346> swimming"
+  },
+  {
+    "image": "datasets/valid/images/IMG_3611_MOV-0242_jpg.rf.6d699b83fab5d3f3c8ed4ce7e85b112b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0384><loc0199><loc0697><loc0349> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Jennifer-Lawrence-drowning-Passengers-Movie_mp4-27_jpg.rf.6321a78e6e69495ec2fd8f9538cdfc53.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0275><loc0347><loc0900><loc0974> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Man-Being-Pulled-from-Water-before-Drowning-1024x683_jpg.rf.f30529aa788155baebf2447826ec45b5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0490><loc0153><loc0847><loc0496> swimming"
+  },
+  {
+    "image": "datasets/valid/images/QQ_1746781724345_png.rf.44f98ebf94ca8555269f9b74063e7f8d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0204><loc0385><loc0595><loc0542> drowning"
+  },
+  {
+    "image": "datasets/valid/images/QQ_1746782025902_png.rf.cf3fb749c14eb2e544ed53fc021e4c93.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0359><loc0365><loc0869><loc0597> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Screenshot-2024-07-30-225004_png.rf.fc29dc79be571d8921982e3665da59a2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0116><loc0998><loc1003> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Screenshot-733-_png.rf.c039a07cc1b7de3772553045c404bd01.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0526><loc0487><loc0829><loc0696> drowning ; <loc0130><loc0153><loc0269><loc0350> swimming ; <loc0062><loc0539><loc0291><loc0734> drowning ; <loc0274><loc0814><loc0497><loc0994> drowning"
+  },
+  {
+    "image": "datasets/valid/images/She-drowning_mp4-10_jpg.rf.4228012df9b0eab5a41e690a0f11609c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0285><loc0282><loc0649><loc0717> swimming"
+  },
+  {
+    "image": "datasets/valid/images/She-drowning_mp4-24_jpg.rf.5827add9b8c2c3032755e60fc8466999.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0372><loc0106><loc0861><loc0680> swimming"
+  },
+  {
+    "image": "datasets/valid/images/She-drowning_mp4-26_jpg.rf.fa1472576299e65aa99b4f84009a53f0.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0264><loc0085><loc0795><loc0815> swimming"
+  },
+  {
+    "image": "datasets/valid/images/She-drowning_mp4-32_jpg.rf.4e507121dd4d0429055a8ba181d91b2f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0424><loc0085><loc0944><loc0849> swimming"
+  },
+  {
+    "image": "datasets/valid/images/She-drowning_mp4-45_jpg.rf.5a4132be48b99f46dd12b0705fa257c5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0533><loc0408><loc0981><loc0692> swimming"
+  },
+  {
+    "image": "datasets/valid/images/The-Child-Is-Drowning-In-Water-Selective-Focus-Kid-Stock-Video-Download-Video-Clip-Now-iStock_mp4-3_jpg.rf.4aec4e5b7ce8c8b24a674fb123b315ef.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0235><loc0409><loc1024><loc0948> swimming"
+  },
+  {
+    "image": "datasets/valid/images/The-Child-Is-Drowning-In-Water-Selective-Focus-Nature-Stock-Video-Download-Video-Clip-Now-iStock_mp4-2_jpg.rf.2676612830c288b7682b132ed9e32793.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0285><loc0326><loc0955><loc0582> swimming"
+  },
+  {
+    "image": "datasets/valid/images/The-Child-Is-Drowning-In-Water-Selective-Focus-Nature-Stock-Video-Download-Video-Clip-Now-iStock_mp4-8_jpg.rf.cb49e8b5006568dc84da6408b4f4171d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0174><loc0210><loc0715><loc0736> swimming"
+  },
+  {
+    "image": "datasets/valid/images/Untitled-video-Made-with-Clipchamp-1-_mp4-15_jpg.rf.47c9c486754af964dd92bec6d681868c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0172><loc0332><loc0251><loc0380> drowning ; <loc0178><loc0225><loc0252><loc0284> drowning ; <loc0261><loc0195><loc0342><loc0266> drowning ; <loc0251><loc0561><loc0374><loc0636> drowning ; <loc0176><loc0570><loc0248><loc0638> drowning ; <loc0062><loc0500><loc0140><loc0552> drowning ; <loc0506><loc0150><loc0636><loc0324> drowning"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-06-10-at-7_12_31-PM_mp4-0008_jpg.rf.98afef7df7f6b3b579429b356f392e18.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0321><loc0237><loc0414><loc0913> drowning"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-06-10-at-7_12_31-PM_mp4-0026_jpg.rf.ae3f36800e4d07d1a0eb426c3cb003c9.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0335><loc0141><loc0447><loc0450> drowning"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-06-10-at-7_12_31-PM_mp4-0029_jpg.rf.cdb043d0fbff90f8bc8d483c54e88c79.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0321><loc0181><loc0509><loc0726> drowning"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-06-10-at-7_12_31-PM_mp4-0040_jpg.rf.b418e9f4e4b8655396d0993ba35797c5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0384><loc0020><loc0523><loc0888> drowning"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-06-10-at-7_18_29-PM_mp4-0017_jpg.rf.9b09de720a55c768cba8ae56ea87583f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0282><loc0118><loc0605><loc0934> drowning"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-11-23-at-14_17_11_mp4-0002_jpg.rf.7bdd40f0ec0797058ce36b37e2617d6b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0594><loc0574><loc0753><loc0684> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-11-23-at-14_17_19_mp4-0000_jpg.rf.8b469a63a8ae6714b5fa2f6243054f5b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0449><loc0341><loc1023><loc0634> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-11-23-at-14_17_19_mp4-0007_jpg.rf.a048e1c7876998f86379d8bf553f8ef2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0386><loc0355><loc1020><loc0622> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_07-2-_mp4-0001_jpg.rf.f124ea010a69c09df7d1e6051a8c4fac.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0696><loc0378><loc0897><loc0532> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_07-2-_mp4-0013_jpg.rf.48abfb2d36c718791833d835e6a5034f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0627><loc0358><loc0798><loc0479> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_07-3-_mp4-0001_jpg.rf.cb55b95ec9674845fd48dd86141b71b7.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0644><loc0382><loc0896><loc0521> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_07-4-_mp4-0013_jpg.rf.29d805910b9911f2f28c96e3e6a861f8.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0556><loc0398><loc0854><loc0598> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_07-4-_mp4-0022_jpg.rf.c905f0009bf9d425be0807cf6d000cb1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0504><loc0407><loc0786><loc0571> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_07-4-_mp4-0034_jpg.rf.dc7f39f8f4083ca2005ce6d47f6df91a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0548><loc0368><loc0806><loc0590> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_08-3-_mp4-0021_jpg.rf.ec021f86480144517a75d63034510b5d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0611><loc0472><loc1024><loc0742> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_08-3-_mp4-0028_jpg.rf.7c8e3b237d9e0549a120e4029fbe6cec.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0642><loc0504><loc0991><loc0676> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_08-3-_mp4-0036_jpg.rf.a96bc36ca5ae9177cb5e305a6e65145a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0604><loc0571><loc0873><loc0724> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_08_mp4-0030_jpg.rf.c43c14f7476d791fc6f19758493923b8.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0453><loc0334><loc0685><loc0446> swimming"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_09-3-_mp4-0041_jpg.rf.be0c67b2aabf4cf139b1c8aedd19a77d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0571><loc0380><loc0907><loc0724> swimming ; <loc0295><loc0391><loc0419><loc0482> drowning"
+  },
+  {
+    "image": "datasets/valid/images/WhatsApp-Video-2024-12-25-at-22_55_11_mp4-0024_jpg.rf.52f37f8749c84c0312c818ca16030a0c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0714><loc0237><loc0928><loc0502> swimming"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00790_png_jpg.rf.129ad8e9e728364bde47298044f67016.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0314><loc0480><loc0335><loc0524> drowning ; <loc0365><loc0104><loc0420><loc0161> drowning ; <loc0225><loc0666><loc0241><loc0696> drowning ; <loc0238><loc0836><loc0255><loc0868> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00820_png_jpg.rf.1e4b438c8eb33d2a68a63b7249a206d1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0250><loc0817><loc0275><loc0853> drowning ; <loc0244><loc0642><loc0267><loc0689> drowning ; <loc0343><loc0423><loc0370><loc0476> drowning ; <loc0298><loc0225><loc0344><loc0280> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00823_png_jpg.rf.fc69ffeca10a558c96f80f9dde945625.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0336><loc0414><loc0376><loc0466> drowning ; <loc0244><loc0640><loc0267><loc0672> drowning ; <loc0296><loc0255><loc0324><loc0294> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00838_png_jpg.rf.2a3260a5c7331f0ed4c1c3f1123947cf.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0223><loc0657><loc0258><loc0680> drowning ; <loc0363><loc0379><loc0398><loc0433> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00883_png_jpg.rf.9645b69dbaa169a88d4f7ab9e6ce4a87.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0674><loc0803><loc0958><loc0883> drowning ; <loc0659><loc0246><loc0727><loc0335> drowning ; <loc0431><loc0253><loc0480><loc0334> drowning ; <loc0200><loc0699><loc0231><loc0728> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00910_png_jpg.rf.42856f6fba10a0ef5bf4ade41d2a4111.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0550><loc0835><loc0685><loc0905> drowning ; <loc0538><loc0297><loc0687><loc0469> drowning ; <loc0454><loc0172><loc0547><loc0272> drowning ; <loc0327><loc0756><loc0356><loc0793> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00961_png_jpg.rf.e4706deee3ddfb78c71ba25cf5745211.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0416><loc0880><loc0502><loc0945> drowning ; <loc0396><loc0691><loc0436><loc0755> drowning ; <loc0376><loc0600><loc0440><loc0673> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00985_png_jpg.rf.a8d7370cdf8900df0b7d48b4c24781c2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0461><loc0150><loc0494><loc0194> drowning ; <loc0464><loc0642><loc0527><loc0726> drowning ; <loc0430><loc0299><loc0530><loc0372> drowning ; <loc0271><loc0695><loc0346><loc0762> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater00994_png_jpg.rf.0f0afd726c11cae447c688e1f9595479.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0338><loc0924><loc0380><loc0952> drowning ; <loc0497><loc0630><loc0555><loc0724> drowning ; <loc0412><loc0334><loc0482><loc0410> drowning ; <loc0478><loc0119><loc0505><loc0151> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01018_png_jpg.rf.14540b53510e295e7e87a2aecfceb9d3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0568><loc0562><loc0644><loc0654> drowning ; <loc0375><loc0423><loc0434><loc0483> drowning ; <loc0470><loc0086><loc0518><loc0107> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01033_png_jpg.rf.a0d6baf4eb6c3e8b1237e662e2876a5b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0346><loc0472><loc0408><loc0516> drowning ; <loc0655><loc0480><loc0751><loc0588> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01042_png_jpg.rf.de33f1a905a427525433d9819621ef95.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0330><loc0495><loc0380><loc0541> drowning ; <loc0700><loc0430><loc0826><loc0554> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01045_png_jpg.rf.c25f23fea1abfdf5466d6f1348ba90c7.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0729><loc0368><loc0870><loc0578> drowning ; <loc0237><loc0420><loc0278><loc0478> drowning ; <loc0320><loc0489><loc0381><loc0563> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01069_png_jpg.rf.4c1c9e9c7cc1f3e1b6f2d3fa490467eb.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0302><loc0530><loc0358><loc0583> drowning ; <loc0288><loc0346><loc0310><loc0383> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01072_png_jpg.rf.a0465af277482d0ab08599eb2ded5bdb.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0292><loc0340><loc0314><loc0372> drowning ; <loc0296><loc0543><loc0347><loc0595> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01120_png_jpg.rf.15348eb6cf861c0a81bde672036934e5.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0413><loc0445><loc0468><loc0577> drowning ; <loc0251><loc0624><loc0280><loc0663> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01147_png_jpg.rf.489de76ec28ae7b2b570e62852e1107f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0799><loc0379><loc0893><loc0452> drowning ; <loc0519><loc0320><loc0631><loc0432> drowning ; <loc0220><loc0650><loc0286><loc0708> drowning ; <loc0466><loc0083><loc0521><loc0122> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01156_png_jpg.rf.86c64237f440011bcf1f3491834609c0.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0436><loc0097><loc0474><loc0125> drowning ; <loc0219><loc0663><loc0270><loc0724> drowning ; <loc0561><loc0252><loc0749><loc0366> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01234_png_jpg.rf.30cb9aaf648228b5783b10ea0fe723fd.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0471><loc0127><loc0524><loc0154> drowning ; <loc0548><loc0321><loc0699><loc0484> drowning"
+  },
+  {
+    "image": "datasets/valid/images/abovewater01276_png_jpg.rf.f82dcdb2aa2ad114903bccfc36b27f86.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0345><loc0617><loc0422><loc0672> drowning"
+  },
+  {
+    "image": "datasets/valid/images/both2_mp4-8_jpg.rf.2592b798e6d4fce24c3170f13767a86d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0034><loc0409><loc0886><loc0877> swimming"
+  },
+  {
+    "image": "datasets/valid/images/child-drowning-260nw-356496794_jpeg.rf.e0c7be16cd94ab88acfdbec38edbe432.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0209><loc0374><loc0440><loc0560> swimming"
+  },
+  {
+    "image": "datasets/valid/images/download-2-_jpg.rf.6287a5dd96bc09d0c005f187f0dec934.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0256><loc0181><loc0630><loc0786> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr107_jpg.rf.1c2c9c172e5b94a09deb2fcc032ce682.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0414><loc0410><loc0570><loc0626> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr12_jpg.rf.e01ace6752040a7470b899a3c37398d2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0327><loc0350><loc0706><loc0596> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr146_jpg.rf.3075cd2588e84165575eb52aa005ae35.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0142><loc0394><loc0932><loc0648> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr153_jpg.rf.5a1ca3469ff4d6d1f55af32757d5763d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0305><loc0203><loc0691><loc0662> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr154_jpg.rf.661991b085d2179ae1d12308e6163ab8.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0246><loc0211><loc1024><loc0907> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr158_jpg.rf.d375cbf0ae9ffcdcc63bb1bc48ef3c64.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0003><loc0150><loc0848><loc0686> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr24_jpg.rf.b51c83deb8fab4df34786cc3f5fb422d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0496><loc0143><loc0849><loc0530> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr28_jpg.rf.eeea459eec7d45f6e897f166a3c20c1e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0299><loc0305><loc0641><loc0704> swimming"
+  },
+  {
+    "image": "datasets/valid/images/dr96_jpg.rf.408e81c351863a9b05181d9b2a19d84a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0350><loc0312><loc0792><loc0905> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drown_girl_pool2_mp4-0000_jpg.rf.0bed5d06f9b57eaacb581eee3b79994d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0180><loc0146><loc0827><loc0797> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drown_girl_pool2_mp4-0003_jpg.rf.f10aead44e4196f46eff87ac1e262ca1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0072><loc0099><loc0743><loc0931> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drown_girl_pool2_mp4-0004_jpg.rf.e61b6f70c63e24199a4ff37bbd9ad5f6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0118><loc0115><loc0656><loc0708> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drown_girl_pool2_mp4-0007_jpg.rf.f904e1eadc09504578aa489877d7bc7c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0357><loc0166><loc0891><loc0890> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drown_woman_pool_mp4-0006_jpg.rf.c61b57760371c934ac5ec14528e25d17.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0084><loc0106><loc0560><loc0660> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drowning1_mp4-12_jpg.rf.dafde939d7efa41250cacb0ad25d79fb.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0591><loc0279><loc0942><loc0613> drowning ; <loc0358><loc0516><loc0577><loc0706> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drowning1_mp4-26_jpg.rf.a44948dfa3a8a5622666a4f9c6fd00c1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0624><loc0130><loc1024><loc0422> drowning ; <loc0334><loc0681><loc0734><loc1011> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drowning_1_mp4-10_jpg.rf.b10cafeaf5066dd38a5942d3e63f5b5f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0365><loc0367><loc0714><loc0664> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drowning_1_mp4-15_jpg.rf.8cc7a7aecb3e642106ae9040b522c2a1.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0335><loc0343><loc0794><loc0635> swimming"
+  },
+  {
+    "image": "datasets/valid/images/drowning_1_mp4-7_jpg.rf.979efa4404f5d3a5b5e2b9d93862cee3.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0379><loc0380><loc0663><loc0636> swimming"
+  },
+  {
+    "image": "datasets/valid/images/funny-woman-in-the-pool-fooling-around-and-getting-high-having-water-fun_mp4-18_jpg.rf.d369bb85d57912841257acacc633de73.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0257><loc0327><loc0669><loc0884> drowning"
+  },
+  {
+    "image": "datasets/valid/images/he-CANT-swim-and-went-to-a-water-park-_mp4-1_jpg.rf.8249433781cb8de02fac82f7680ae551.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0603><loc0336><loc0772><loc0678> swimming ; <loc0336><loc0790><loc0396><loc0994> drowning"
+  },
+  {
+    "image": "datasets/valid/images/i23_png.rf.9d2687db6a6638661faf701481a60d76.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0078><loc0165><loc0489><loc0582> swimming"
+  },
+  {
+    "image": "datasets/valid/images/i53_png.rf.28dbad947eec574101043f5668c8286d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0401><loc0200><loc0936><loc0808> swimming"
+  },
+  {
+    "image": "datasets/valid/images/iStock-1001608692_jpg.rf.06653c2c2e921598804e08f4ca941af0.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0272><loc0376><loc0596><loc0701> swimming"
+  },
+  {
+    "image": "datasets/valid/images/images-1-_jpg.rf.532bc600c9950ed67efb9b690bc4377f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0419><loc0165><loc0853><loc0624> swimming"
+  },
+  {
+    "image": "datasets/valid/images/images-1-_jpg.rf.eddd24d13a78e642f17a7b9d82dc9bca.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0155><loc0000><loc1024><loc0884> drowning"
+  },
+  {
+    "image": "datasets/valid/images/images-3-_jpeg.rf.40089f235e195086b6dbda40cbe15cf0.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0064><loc0402><loc0503><loc0560> swimming"
+  },
+  {
+    "image": "datasets/valid/images/images-4-_jpeg_jpg.rf.1ebd164c8484d86e34122ef1200124eb.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0057><loc0971><loc0942> swimming"
+  },
+  {
+    "image": "datasets/valid/images/output1-2-_jpg.rf.e0672faf529d0fceedffcabafc12ee24.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0600><loc0298><loc0746><loc0572> drowning"
+  },
+  {
+    "image": "datasets/valid/images/output32_jpg.rf.86c55fc4f62b0c9824c1358995903227.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0474><loc0706><loc0674><loc0869> swimming"
+  },
+  {
+    "image": "datasets/valid/images/output33_jpg.rf.ffc6acdb691b6f4f0876f283ab5bc2b7.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0421><loc0409><loc0739><loc0616> swimming"
+  },
+  {
+    "image": "datasets/valid/images/output34-2-_jpg.rf.5b730a26c9f50078e06140d212df7b10.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0500><loc0734><loc0688><loc0929> swimming"
+  },
+  {
+    "image": "datasets/valid/images/output34_jpg.rf.24ac6a843ac565cb25ca83526a54153b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0505><loc0739><loc0696><loc0913> swimming"
+  },
+  {
+    "image": "datasets/valid/images/output43_jpg.rf.ba16161c581ed1f259b4a27ea75c5a0c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0346><loc0399><loc0853><loc0576> swimming"
+  },
+  {
+    "image": "datasets/valid/images/output50_jpg.rf.f3d0f0fc0dd73a861ae3e0bb44feb8fe.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0441><loc0378><loc0752><loc0628> swimming"
+  },
+  {
+    "image": "datasets/valid/images/output78_jpg.rf.7d0fe668952c58544ce01c7524af5dcb.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0676><loc0739><loc0856><loc0903> swimming"
+  },
+  {
+    "image": "datasets/valid/images/output_0213_jpg.rf.04e835d7ae7f4e631cd143193b131b73.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0415><loc0356><loc0682><loc0993> drowning ; <loc0122><loc0069><loc0286><loc0404> drowning"
+  },
+  {
+    "image": "datasets/valid/images/output_0244_jpg.rf.337fc72fbe126f25f6dceb08980e2229.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0311><loc0344><loc0784><loc0757> drowning"
+  },
+  {
+    "image": "datasets/valid/images/output_0512_jpg.rf.842d746165c8529a87109d7cb33e6612.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0237><loc0278><loc0617><loc0482> swimming"
+  },
+  {
+    "image": "datasets/valid/images/pic12_jpg.rf.5470eec18770c6ed494972e4d704e454.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0748><loc0458><loc0919><loc0659> drowning ; <loc0012><loc0538><loc0139><loc0599> drowning ; <loc0071><loc0371><loc0213><loc0435> drowning ; <loc0235><loc0561><loc0506><loc0694> drowning ; <loc0302><loc0448><loc0550><loc0515> drowning ; <loc0654><loc0310><loc0786><loc0441> drowning"
+  },
+  {
+    "image": "datasets/valid/images/pic27_png.rf.666d61b994f1ac5e13b41cb68346cd17.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0385><loc0159><loc1024><loc0493> swimming ; <loc0362><loc0486><loc0765><loc0923> drowning"
+  },
+  {
+    "image": "datasets/valid/images/sf37_jpg.rf.2aad2655d13e678708e46c7cf8cd85ac.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0506><loc0743><loc0726><loc0888> drowning ; <loc0386><loc0119><loc0427><loc0199> swimming ; <loc0366><loc0259><loc0417><loc0307> drowning ; <loc0339><loc0594><loc0401><loc0651> drowning ; <loc0349><loc0779><loc0394><loc0868> drowning"
+  },
+  {
+    "image": "datasets/valid/images/sw11_jpg.rf.478f5b6ec1b6824b04d4676e55e7bb0a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0273><loc0310><loc0774><loc0750> drowning"
+  },
+  {
+    "image": "datasets/valid/images/sw23_jpg.rf.83b458c6470f5ec212dbd1cd96e81f7c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0062><loc0123><loc1009><loc1024> drowning"
+  },
+  {
+    "image": "datasets/valid/images/sw47_jpg.rf.2b1493e77effbd207347896cb284cc8e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0001><loc0233><loc0270><loc0382> drowning ; <loc0003><loc0586><loc0227><loc0908> drowning"
+  },
+  {
+    "image": "datasets/valid/images/sw5_jpg.rf.a0fd25f96888ca18c4eb1a0285e6616c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0103><loc0035><loc0653><loc0832> drowning"
+  },
+  {
+    "image": "datasets/valid/images/sw63_jpg.rf.2176122dc6bdae960ee7c8872e248f7e.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0420><loc0145><loc0840><loc1024> drowning"
+  },
+  {
+    "image": "datasets/valid/images/sw68_jpg.rf.800a9e8078e5854d174218a0df44121b.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0145><loc0468><loc0529><loc0595> drowning"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-07_mp4-2_jpg.rf.23cfddec596942199e58c1df089b1188.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0212><loc0304><loc0620><loc0525> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-07_mp4-2_jpg.rf.3c1099968304e2c97cb7eb3b37e5df65.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0290><loc0282><loc0602><loc0525> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-07_mp4-3_jpg.rf.1296bcec490c2549eb39a268c3f1b475.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0326><loc0330><loc0588><loc0506> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-07_mp4-6_jpg.rf.8c52f7d4f9008653055f5678fddc2b6f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0291><loc0323><loc0473><loc0472> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-12_mp4-10_jpg.rf.c409a1fd0b9c2f47bb64e357b6213495.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0254><loc0377><loc0603><loc0580> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-12_mp4-13_jpg.rf.26a93f9e5ca9ff1bf133462452dc5605.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0252><loc0398><loc0692><loc0584> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-12_mp4-1_jpg.rf.fb881d096dd3fb6b3fd4f9be0d6f4096.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0244><loc0395><loc0566><loc0560> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-12_mp4-4_jpg.rf.8bbcf5bc11abfd0ad3686595d03b0869.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0155><loc0378><loc0552><loc0550> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-12_mp4-7_jpg.rf.405b68c283c9206020ae84bcb1d71677.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0241><loc0400><loc0564><loc0548> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-15_mp4-11_jpg.rf.6940f2a4cf7c47591c2c57a8d06d4aba.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0400><loc0366><loc0663><loc0615> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-15_mp4-18_jpg.rf.a1da6fc740f3f97e3b150e3ae14df0e4.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0454><loc0394><loc0665><loc0628> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-15_mp4-1_jpg.rf.1fd65263dee00804f817ee059d7fe256.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0299><loc0384><loc0631><loc0594> drowning"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-17_mp4-13_jpg.rf.807dddb52b674cf39136f0057d8ac5db.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0369><loc0238><loc0795><loc0775> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-17_mp4-2_jpg.rf.e724515225f32ff9a5552c82ea1dc09f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0162><loc0305><loc0669><loc0664> drowning"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-17_mp4-8_jpg.rf.f8b0bc21c807c8b838cdd67eb34f11ea.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0354><loc0323><loc0630><loc0688> swimming"
+  },
+  {
+    "image": "datasets/valid/images/video_2022-12-07_23-08-17_mp4-9_jpg.rf.593d764dbdfd4a9add115b691836b83a.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0337><loc0234><loc0730><loc0797> swimming"
+  },
+  {
+    "image": "datasets/valid/images/youtube-10_jpg.rf.743dd79c42259f8fc6caa70fa78e013c.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0627><loc0606><loc0832><loc0916> drowning ; <loc0406><loc0456><loc0510><loc0794> drowning"
+  },
+  {
+    "image": "datasets/valid/images/youtube-12_jpg.rf.f8fb1fa81274e07f17f73a790a2d02e6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0020><loc0388><loc0676><loc0721> swimming"
+  },
+  {
+    "image": "datasets/valid/images/youtube-20_jpg.rf.41fe395c2f6a96818769a5bef3443619.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0153><loc0414><loc0749><loc0724> drowning"
+  },
+  {
+    "image": "datasets/valid/images/youtube-59_jpg.rf.ff0627038323269dcbe6a4e31c0eb19d.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0241><loc0222><loc0659><loc0610> swimming"
+  },
+  {
+    "image": "datasets/valid/images/youtube-6_jpg.rf.f52fa0333421f68cd30785b570e94796.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0004><loc0161><loc0667><loc0740> swimming"
+  },
+  {
+    "image": "datasets/valid/images/youtube-8_jpg.rf.847bda435273dd366327ddfc9be6e677.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0164><loc0546><loc0512><loc0739> swimming"
+  },
+  {
+    "image": "datasets/valid/images/youtube-91_jpg.rf.0a0a213398c1d2e9687529ab55f761b2.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0000><loc0388><loc0872><loc1008> swimming"
+  },
+  {
+    "image": "datasets/valid/images/youtube-9_jpg.rf.2e0828a31df27d89be351722f4c0fbb6.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0272><loc0389><loc0682><loc0723> swimming"
+  },
+  {
+    "image": "datasets/valid/images/yt-false-0002_jpg.rf.617a11e21ee4119b2f978143a1dbe0ae.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0449><loc0411><loc0591><loc0689> drowning"
+  },
+  {
+    "image": "datasets/valid/images/yt-false-0003_jpg.rf.f27f6ba2617ef20712722604682fb11f.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0451><loc0352><loc0588><loc0704> drowning"
+  },
+  {
+    "image": "datasets/valid/images/yt-false-0011_jpg.rf.fc8bf1756ee250c244d359d0a901d825.jpg",
+    "prefix": "detect swimming ; drowning",
+    "suffix": "<loc0445><loc0407><loc0595><loc0720> drowning"
+  }
+]
